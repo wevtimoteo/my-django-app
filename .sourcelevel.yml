@@ -1,0 +1,12 @@
+---
+styleguide: sourcelevel/linters
+engines:
+  fixme:
+    enabled: true
+  radon:
+    enabled: true
+  bandit:
+    enabled: true
+  pep8:
+    enabled: true
+exclude_paths: []
