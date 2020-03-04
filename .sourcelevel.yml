@@ -1,18 +1,6 @@
 ---
 styleguide: sourcelevel/linters
 engines:
-  fixme:
-    enabled: true
-    channel: latest
-  radon:
-    enabled: true
-    channel: latest
-  bandit:
-    enabled: true
-    channel: latest
-  pep8:
-    enabled: true
-    channel: latest
   pylint:
     enabled: true
     channel: b802
