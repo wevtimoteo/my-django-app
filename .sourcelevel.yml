@@ -3,5 +3,5 @@ styleguide: sourcelevel/linters
 engines:
   pylint:
     enabled: true
-    channel: b835
+    channel: b860
 exclude_paths: []
