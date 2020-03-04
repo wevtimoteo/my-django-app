@@ -13,4 +13,7 @@ engines:
   pep8:
     enabled: true
     channel: latest
+  pylint:
+    enabled: true
+    channel: b802
 exclude_paths: []
